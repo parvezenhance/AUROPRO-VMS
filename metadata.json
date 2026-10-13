@@ -1,0 +1,7 @@
+{
+  "name": "AuroPro - Designed for Agencies/Clients",
+  "description": "AuroPro is an enterprise staffing agency and client empanelment platform controlled by a central administrator, featuring separate agency and client registration, contingent talent governance, and sector-specific vetting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
